@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+scikit-learn
+prophet
+statsmodels
+xgboost
+tensorflow==2.*    # or comment out if you don't need LSTM
