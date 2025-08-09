@@ -1,9 +1,7 @@
-streamlit
-pandas
-numpy
-matplotlib
-scikit-learn
-prophet
-statsmodels
-xgboost
-tensorflow==2.*    # or comment out if you don't need LSTM
+streamlit==1.36.0
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+scikit-learn==1.4.2
+statsmodels==0.14.2
+xgboost==2.0.3
